@@ -2,10 +2,10 @@
 
 This application lists various sources of news and subsequent highlights in each of the source. clicking an individual highlights takes the user to the article itself for the full story
 
-## By **[Kepha Okari](https://github.com/kepha-okari)**
+## By **[Isaac Waithaka](https://github.com/Isaac-waithaka)**
 
 ## Description
-[This](https://kepha-news-highlights.herokuapp.com/) is a web application that lists various News sources gotten from [News API](https://newsapi.org/). A user can click on a News source and be directed to a page that contains News Articles from the selected News source. The article's title, image, date of publication and preview will be displayed and a user can click on the article to be directed to the source's site to read the entire article.
+[This](https://newscast.herokuapp.com/) is a web application that lists various News sources gotten from [News API](https://newsapi.org/). A user can click on a News source and be directed to a page that contains News Articles from the selected News source. The article's title, image, date of publication and preview will be displayed and a user can click on the article to be directed to the source's site to read the entire article.
 
 ## User Stories
 As a user I would like:
@@ -23,22 +23,22 @@ As a user I would like:
 | Read an entire article | **Click** on an article | Directed to the source's site to read the entire article |
 
 ## Prerequisites
-* Python3.6
+* Python3.9
 
 ## How to use it
 * must have internet connection
-* Click https://kepha-news-highlights.herokuapp.com/) <br/>
+* Click https://newscast.herokuapp.com/) <br/>
   or <br/>
-* Copy https://kepha-news-highlights.herokuapp.com/) and  Paste the link on your prefered browser
+* Copy https://newscast.herokuapp.com/) and  Paste the link on your prefered browser
 
 
 ## Setup/Installation Requirements
 * internet access
-* git clone https://github.com/kepha-okari/news-highlight.git
+* git clone https://github.com/Isaac-waithaka/News-highlight.git
 * $ cd news-highlights
-* $ python3.6 -m venv virtual (install virtual environment)
+* $ python3.9 -m venv virtual (install virtual environment)
 * $ source virtual/bin/activate
-* $ python3.6 -m pip install -r requirements.txt (install all dependencies)
+* $ python3.9 -m pip install -r requirements.txt (install all dependencies)
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
 * $ ./start.sh
 
@@ -49,17 +49,17 @@ As a user I would like:
 
 # Support and Contacts
 
-In case You have any issues using this code please do no hesitate to get in touch with me through kephaokari@gmail.com or leave a commit here on github.
+In case You have any issues using this code please do no hesitate to get in touch with me through waithakaisaac2016@gmail.com or leave a commit here on github.
 
 ## Known Bugs
 
 No known bugs
 
 ## Technologies Used
-- Python3.6
+- Python3.9
 - Flask framework
 - Bootstrap
 
 ### License
 
-**[MIT](./LICENSE)** (c) 2017 **[Kepha Okari](https://kepha-okari.github.io)**
+**[MIT](./LICENSE)** (c) 2020 **[Isaac Waithaka](https://Isaac-waithaka.github.io)**
