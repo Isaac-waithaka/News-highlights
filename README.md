@@ -5,7 +5,7 @@ This application lists various sources of news and subsequent highlights in each
 ## By **[Isaac Waithaka](https://github.com/Isaac-waithaka)**
 
 ## Description
-[This](https://newscast.herokuapp.com/) is a web application that lists various News sources gotten from [News API](https://newsapi.org/). A user can click on a News source and be directed to a page that contains News Articles from the selected News source. The article's title, image, date of publication and preview will be displayed and a user can click on the article to be directed to the source's site to read the entire article.
+[This](https://news-features.herokuapp.com/) is a web application that lists various News sources gotten from [News API](https://newsapi.org/). A user can click on a News source and be directed to a page that contains News Articles from the selected News source. The article's title, image, date of publication and preview will be displayed and a user can click on the article to be directed to the source's site to read the entire article.
 
 ## User Stories
 As a user I would like:
@@ -27,9 +27,9 @@ As a user I would like:
 
 ## How to use it
 * must have internet connection
-* Click https://newscast.herokuapp.com/) <br/>
+* Click https://news-features.herokuapp.com/) <br/>
   or <br/>
-* Copy https://newscast.herokuapp.com/) and  Paste the link on your prefered browser
+* Copy https://news-features.herokuapp.com/) and  Paste the link on your prefered browser
 
 
 ## Setup/Installation Requirements
